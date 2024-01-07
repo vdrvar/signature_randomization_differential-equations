@@ -17,6 +17,6 @@ This is what this high-dimensional object may look like when applied to real wor
 
 
 
-After fitting a simple linear regression, it is possible to get a decent reconstruction of a very hectic and non-linear path:
+After fitting a simple linear regression on the randomized signature, it is possible to get a decent reconstruction of a very hectic and non-linear path:
 
 ![msc profile2](https://github.com/vdrvar/rand_and_diff_eq_in_the_context_of_the_sig/assets/48907543/276fd6a8-b9fc-4626-9a21-4084ea0e1d28)
