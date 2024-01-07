@@ -7,9 +7,7 @@ I theoretically improved and implemented (in Python) a method for learning rough
 
 An equation that defines the key object, the randomized signature, is as follows:
 
-\begin{math}
-a = 5
-\end{math}
+![equation](https://github.com/vdrvar/rand_and_diff_eq_in_the_context_of_the_sig/assets/48907543/716d96f3-8680-45bc-84aa-e1edd508564b)
 
 This is what this high-dimensional object may look like when applied to real world data:
 
