@@ -6,8 +6,8 @@ In this repo, you can find the simulations related to the technique of the rando
 I theoretically improved and implemented (in Python) a method for learning rough path trajectories using multi-dimensional analysis, neural differential equations and randomization.
 
 An equation that defines the key object, the randomized signature, is as follows:
+![equation1](https://github.com/vdrvar/rand_and_diff_eq_in_the_context_of_the_sig/assets/48907543/4ba0e164-bd4e-4309-abd5-3cfabc8ecdb9)
 
-![equation](https://github.com/vdrvar/rand_and_diff_eq_in_the_context_of_the_sig/assets/48907543/716d96f3-8680-45bc-84aa-e1edd508564b)
 
 This is what this high-dimensional object may look like when applied to real world data:
 
