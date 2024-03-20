@@ -8,6 +8,9 @@ I theoretically improved and implemented (in Python) a method for learning rough
 An equation that defines the key object, the randomized signature, is as follows:
 ![equation1](https://github.com/vdrvar/rand_and_diff_eq_in_the_context_of_the_sig/assets/48907543/4ba0e164-bd4e-4309-abd5-3cfabc8ecdb9)
 
+An example how this object look like for a theoretically defined stochastic process:
+![image](https://github.com/vdrvar/signature-randomization-differential-equations/assets/48907543/169a3272-255e-4b8e-83ab-fb7ea25ee1da)
+
 
 This is what this high-dimensional object may look like when applied to real world data:
 
