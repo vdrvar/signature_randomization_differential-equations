@@ -12,15 +12,16 @@ This work theoretically improves and implements a method for learning rough path
 
 ### Reservoir Computing and Signatures
 The thesis leverages reservoir computing by utilizing the signature of a path, a high-dimensional feature set that captures deep geometric properties of time-series data. This provides a powerful tool for learning dynamics from data streams.
-- **Reference:** [Thesis Section 2.2](link-to-thesis-section)
+- **Reference:** [Thesis Section 2.2](https://github.com/vdrvar/signature_randomization_differential-equations/blob/main/thesis/drvar_master_thesis.pdf) (Page 3)
 
 ### Controlled Differential Equations (CDEs)
 Controlled differential equations (CDEs) are employed to model the evolution of the signature over time, enabling continuous-time representations essential for reservoir computing.
-- **Reference:** [Thesis Section 2.3](link-to-thesis-section)
+- **Reference:** [Thesis Section 2.3](https://github.com/vdrvar/signature_randomization_differential-equations/blob/main/thesis/drvar_master_thesis.pdf) (Page 10)
 
 ### Randomized Dimensionality Reduction
 To address computational challenges, the thesis introduces a randomized dimensionality reduction approach based on the Johnson-Lindenstrauss lemma. This approach preserves the essential properties of high-dimensional signatures while reducing computational complexity.
-- **Reference:** [Thesis Section 3.1](link-to-thesis-section)
+- **Reference:** [Thesis Section 3.1](https://github.com/vdrvar/signature_randomization_differential-equations/blob/main/thesis/drvar_master_thesis.pdf) (Page 18)
+
 
 ## Randomized Signature Equation
 
